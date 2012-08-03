@@ -832,7 +832,7 @@
       </width>
       <points>
         <java.awt.Point x="5.2" y="3.6"/>
-        <java.awt.Point x="5.6" y="3.6"/>
+        <java.awt.Point x="5.5" y="3.6"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -1118,15 +1118,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1134,8 +1126,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1143,6 +1135,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1166,15 +1166,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1182,8 +1174,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1191,6 +1183,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1214,15 +1214,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1230,8 +1222,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1239,6 +1231,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1262,15 +1262,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1278,8 +1270,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1287,6 +1279,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1310,15 +1310,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1326,8 +1318,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1335,6 +1327,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1358,15 +1358,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1374,8 +1366,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1383,6 +1375,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1406,15 +1406,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1422,8 +1414,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1431,6 +1423,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1454,15 +1454,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1470,8 +1462,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1479,6 +1471,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1502,15 +1502,7 @@
       <font>
         <attributes>
           <entry>
-            <awt-text-attribute>width</awt-text-attribute>
-            <null/>
-          </entry>
-          <entry>
-            <awt-text-attribute>size</awt-text-attribute>
-            <float>14.0</float>
-          </entry>
-          <entry>
-            <awt-text-attribute>posture</awt-text-attribute>
+            <awt-text-attribute>weight</awt-text-attribute>
             <null/>
           </entry>
           <entry>
@@ -1518,8 +1510,8 @@
             <null/>
           </entry>
           <entry>
-            <awt-text-attribute>weight</awt-text-attribute>
-            <null/>
+            <awt-text-attribute>size</awt-text-attribute>
+            <float>14.0</float>
           </entry>
           <entry>
             <awt-text-attribute>transform</awt-text-attribute>
@@ -1527,6 +1519,14 @@
           </entry>
           <entry>
             <awt-text-attribute>tracking</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>posture</awt-text-attribute>
+            <null/>
+          </entry>
+          <entry>
+            <awt-text-attribute>width</awt-text-attribute>
             <null/>
           </entry>
           <entry>
